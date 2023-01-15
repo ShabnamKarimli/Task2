@@ -1,0 +1,47 @@
+.head1{
+    text-align: center;
+}
+.hr1{
+    margin-right: 30px;
+
+}
+.img1{
+    width: 1300px;
+    height: 600px;
+
+}
+.text1{
+    text-align: center;
+    margin-right: 20px;
+}
+.hr2{
+    margin-left: 10px;
+    margin-right: 20px
+}
+.p{
+    text-align: center;
+}
+.fb{
+    background-color: rgb(23, 23, 104); 
+    color: white;
+    border-color: rgb(23, 23, 104);
+    
+}
+
+.tw{
+    background-color:rgb(0, 102, 255);
+    border-color: rgb(0, 102, 255);
+    color: white;
+
+}
+
+.ln{
+    background-color: rgb(2, 76, 214);
+    border-color: rgb(2, 76, 214);
+    color: white;
+}
+.pn{
+    background-color: red;
+    border-color: red;
+    color: white;
+}

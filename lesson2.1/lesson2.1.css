@@ -1,0 +1,23 @@
+body{ 
+    background-color: gray;
+}
+.head1{
+    text-align: center;
+    color: white;
+}
+.head2{
+    text-align: center;
+    color: white;
+}
+.pragraph1{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+    color: white;
+}
+.pragraph2{
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: left;
+    color: white;
+}
